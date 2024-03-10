@@ -33,7 +33,7 @@ I’m Full-Stack Developer focused on developing and maintaining Front-End Web A
 #### 🔎 VERSIONING
 * Git/Github
 
-### 🎨 DESIGN
+#### 🎨 DESIGN
 * Figma
 * User Interface Design
 * User Experience Design
