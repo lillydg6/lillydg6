@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hello, I'm Lilian 👋
+I’m Full-Stack Developer focused on developing and maintaining Front-End Web Applications with React.
 
-<!--
-**lillydg6/lillydg6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+👩‍💻 Skilled Freelance Web Developer\
+🔭 Currently working on a Design System application using React and Storybook\
+🌱 Perfecting my backend skills with Node.js and .Net Framework
 
-Here are some ideas to get you started:
+## Languages, libraries and tools
+#### 💻 FRONTEND
+* React
+* Typescript
+* Javascript
+* HTML5
+* CSS3
+* SASS
+* Storybook
+* Styled components
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🤖 BACKEND
+* Node.js
+* .Net Framework
+* Authorization Json Web Token
+
+#### ⚙️ DATABASE
+* MongoDB
+* SQL
+  
+#### 🏛 ARCHITECTURE
+* API REST
+* Microservices
+
+#### 🔎 VERSIONING
+* Git/Github
+
+### 🎨 DESIGN
+* Figma
+* User Interface Design
+* User Experience Design
+
+## Let's Connect
+📫 Feel free to send me a message here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/lilian-delgado-gonzales)
