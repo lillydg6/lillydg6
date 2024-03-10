@@ -7,36 +7,16 @@ I’m Full-Stack Developer focused on developing and maintaining Front-End Web A
 🌱 Perfecting my backend skills with Node.js and .Net Framework
 
 ## Languages, libraries and tools
-#### 💻 FRONTEND
-* React
-* Typescript
-* Javascript
-* HTML5
-* CSS3
-* SASS
-* Storybook
-* Styled components
-
-#### 🤖 BACKEND
-* Node.js
-* .Net Framework
-* Authorization Json Web Token
-
-#### ⚙️ DATABASE
-* MongoDB
-* SQL
-  
-#### 🏛 ARCHITECTURE
-* API REST
-* Microservices
-
-#### 🔎 VERSIONING
-* Git/Github
-
-#### 🎨 DESIGN
-* Figma
-* User Interface Design
-* User Experience Design
+| 💻  FRONTEND | 🤖  BACKEND | ⚙️ DATABASE | 🏛 ARCHITECTURE | 🔎 VERSIONING | 🎨 DESIGN |
+| --- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| React | Node.js | MongoDB  | API REST | Git / Github | User Experience Design |
+| Typescript | .Net Framework | SQL | Microservices | | User Interface Design |
+| Javascript | Authorization<br> Json Web Token | | | | Figma |
+| HTML5 |
+| CSS3 |
+| SASS |
+| Storybook |
+| Styled components |
 
 ## Let's Connect
 📫 Feel free to send me a message here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/lilian-delgado-gonzales)
